@@ -1,0 +1,18 @@
+
+  TEORÍA SOBRE GEOMETRÍA Y MATERIALES
+
+La creación de un elemeto en three.js ocurre en 3 fases: 
+
+  1.  Creación de la geometría o esqueleto de la forma 3D que queremos añadir a la escena
+
+  2.  Creación del material, "piel" o recubrimiento de la forma 3D que hemos iniciado en la greometría. (Es recomendable escoger con cuidado, dado que algunas coberturas o pieles requieren más recursos que otras)
+
+  3. Recubrimiento de la geometría con el material
+
+PASAMOS A LA PRÁCTICA: POR LEYENDAS EN EL CÓDIGO JS
+CUANDO SE VEA ESTE COMENTARIO, SE ESTARÁ PRACTICANDO LA TEORÍA PERTINENTE (Y ASÍ EN POSTERIORES)
+  
+  //! GEOMAT 01
+
+
+
